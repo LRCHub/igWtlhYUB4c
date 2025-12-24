@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "WANTED",
+  "base_artist": "BIM",
+  "createdAt": "2025-12-24T14:30:22.242198Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Just Wanted You To Know",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/01_I_Just_Wanted_You_To_Know_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Just Wanted You To Know",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/02_I_Just_Wanted_You_To_Know_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "If He Wanted To He Would",
+      "artist": "Kylie Morgan",
+      "has_synced": true,
+      "path": "select/03_If_He_Wanted_To_He_Would_Kylie_Morgan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Never Wanted Nothing More",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/04_Never_Wanted_Nothing_More_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Never Wanted Nothing More",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/05_Never_Wanted_Nothing_More_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Never Wanted To Be That Girl (Acoustic Version)",
+      "artist": "Carly Pearce",
+      "has_synced": true,
+      "path": "select/06_Never_Wanted_To_Be_That_Girl_(Acoustic_Version)_Carly_Pearce.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wanted",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/07_Wanted_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wanted",
+      "artist": "Hunter Hayes",
+      "has_synced": true,
+      "path": "select/08_Wanted_Hunter_Hayes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "2 Of Amerikaz Most Wanted (ft. Snoop Doggy Dogg)",
+      "artist": "2Pac feat. Snoop Dogg",
+      "has_synced": true,
+      "path": "select/09_2_Of_Amerikaz_Most_Wanted_(ft._Snoop_Doggy_Dogg)_2Pac_feat._Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "2 Of Amerikaz Most Wanted",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/10_2_Of_Amerikaz_Most_Wanted_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "2 of Amerikaz Most Wanted",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/11_2_of_Amerikaz_Most_Wanted_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "We Have All We've Ever Wanted",
+      "artist": "YACHT",
+      "has_synced": false,
+      "path": "select/12_We_Have_All_We've_Ever_Wanted_YACHT.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "We Have All We Ever Wanted",
+      "artist": "YACHT",
+      "has_synced": false,
+      "path": "select/13_We_Have_All_We_Ever_Wanted_YACHT.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Is This What You Wanted",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/14_Is_This_What_You_Wanted_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WANTED",
+      "artist": "BIM",
+      "has_synced": false,
+      "path": "select/pl_01_WANTED_BIM.txt"
+    }
+  ]
+}
